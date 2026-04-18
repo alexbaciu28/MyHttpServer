@@ -14,3 +14,4 @@ This project creates a simple HTTP server that:
 3. Responds with an HTML (home.html in this repo)
 
 ## Demo 
+[Screencast from 2026-04-18 13-28-47.webm](https://github.com/user-attachments/assets/4351d2a6-8c6a-40cc-9972-3e5532bc0390)
